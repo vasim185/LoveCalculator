@@ -1,0 +1,35 @@
+#myBtn{
+  background-color:#768d87;
+	border-radius:12px;
+	border:3px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 32px;
+	text-decoration:none;
+	text-shadow:-9px 1px 9px #2b665e;
+}
+
+.center{
+  text-align: center;
+  margin-top: 5%;
+   margin-left: 5%;
+}
+body{
+  background-image: url("image.jpg");
+  }
+.title{
+  color: #fff;
+  font-size: 100px;
+  margin-top: 15%;
+
+}
+footer{margin-top: 90px;
+  text-align: center;
+  padding: 30px;
+
+  color: white;
+}
